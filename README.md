@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 148 | 22 |
+| 149 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (24)
@@ -43,6 +44,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/soans14/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/soans14/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/soans14/Codeforces-Solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### binary search
 
